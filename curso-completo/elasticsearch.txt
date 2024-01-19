@@ -1,0 +1,15 @@
+Elasticsearch - Considerações
+
+É necessário o JDK instalado e variavel de ambiente configurada: JAVA_HOME
+
+Acesse o diretorio pelo CMD: C:\elasticsearch\bin
+
+Execute o seguinte comando: elasticsearch.bat
+
+Aguarade subir o serviço do Elasticsearch
+
+Abra o browser e digite: https://127.0.0.1:9200
+
+Coloque o usuário: elastic
+
+A senha procure no console que foi executado o elasticsearch.bat
