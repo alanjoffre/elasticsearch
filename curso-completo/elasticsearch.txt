@@ -13,3 +13,9 @@ Abra o browser e digite: https://127.0.0.1:9200
 Coloque o usuário: elastic
 
 A senha procure no console que foi executado o elasticsearch.bat
+
+No diretório do logstash, crie uma pasta com o seguinte nome: config 
+
+Entre pelo prompt de comando no diretório: c:\logstash\bin
+
+Inicie o serviço do logstash com o seguinte comando: logstash -f config/bancocliente.conf
